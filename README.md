@@ -1,92 +1,52 @@
-# \# Customer Churn Prediction and Explainable Analysis
+# Customer Churn Prediction and Explainable Analysis
 
-# 
+## Project Overview
 
-# \## Project Overview
+This project aims to predict customer churn based on user behavior and service information using machine learning models.
 
-# 
+The goal is to identify high-risk customers and analyze the key factors influencing customer retention.
 
-# This project aims to predict customer churn based on user behavior and service information using machine learning models.
+## Objectives
 
-# 
+- Perform exploratory data analysis on customer behavior data
+- Build and compare machine learning models
+- Interpret model predictions using explainable AI methods
+- Provide actionable customer retention insights
 
-# The goal is to identify high-risk customers and analyze the key factors influencing customer retention.
+## Methods
 
-# 
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Feature Engineering
+- Logistic Regression
+- Random Forest
+- XGBoost
+- SHAP Explainability
 
-# \## Objectives
+## Tech Stack
 
-# 
+- Python
+- Pandas
+- Scikit-learn
+- XGBoost
+- LightGBM
+- SHAP
 
-# \- Perform exploratory data analysis on customer behavior data
+## Project Structure
 
-# \- Build and compare machine learning models
+data/ Dataset files
 
-# \- Interpret model predictions using explainable AI methods
+notebooks/ Analysis notebooks
 
-# \- Provide actionable customer retention insights
+src/ Source code
 
-# 
+models/ Trained models
 
-# \## Methods
+reports/ Figures and reports
 
-# 
-
-# \- Exploratory Data Analysis (EDA)
-
-# \- Statistical Analysis
-
-# \- Feature Engineering
-
-# \- Logistic Regression
-
-# \- Random Forest
-
-# \- XGBoost
-
-# \- SHAP Explainability
-
-# 
-
-# \## Tech Stack
-
-# 
-
-# \- Python
-
-# \- Pandas
-
-# \- Scikit-learn
-
-# \- XGBoost
-
-# \- LightGBM
-
-# \- SHAP
-
-# 
-
-# \## Project Structure
-
-# data/ Dataset files
-
-# notebooks/ Analysis notebooks
-
-# src/ Source code
-
-# models/ Trained models
-
-# reports/ Figures and reports
-
-# app/ Deployment application
+app/ Deployment application
 
 
-
-
-
-\## Author
-
-
+## Author
 
 elninoon
-
