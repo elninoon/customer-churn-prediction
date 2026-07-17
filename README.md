@@ -1,48 +1,40 @@
-# \# Customer Churn Prediction and Explainable Analysis
+# Customer Churn Prediction and Explainable Analysis
 
-# 
-
-# \## Project Overview
-
-# 
+## Project Overview
 
 # This project aims to predict customer churn based on user behavior and service information using machine learning models.
 
-# 
 
 # The goal is to identify high-risk customers and analyze the key factors influencing customer retention.
 
-# 
+## Objectives
 
-# \## Objectives
 
-# 
+- Perform exploratory data analysis on customer behavior data
 
-# \- Perform exploratory data analysis on customer behavior data
+- Build and compare machine learning models
 
-# \- Build and compare machine learning models
+- Interpret model predictions using explainable AI methods
 
-# \- Interpret model predictions using explainable AI methods
+- Provide actionable customer retention insights
 
-# \- Provide actionable customer retention insights
 
-# 
 
-# \## Methods
+## Methods
 
-# 
 
-# \- Exploratory Data Analysis (EDA)
 
-# \- Statistical Analysis
+- Exploratory Data Analysis (EDA)
 
-# \- Feature Engineering
+- Statistical Analysis
 
-# \- Logistic Regression
+- Feature Engineering
 
-# \- Random Forest
+- Logistic Regression
 
-# \- XGBoost
+- Random Forest
+
+- XGBoost
 
 # \- SHAP Explainability
 
@@ -81,12 +73,7 @@
 # app/ Deployment application
 
 
-
-
-
-\## Author
-
-
+## Author
 
 elninoon
 
