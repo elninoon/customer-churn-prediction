@@ -223,3 +223,6 @@ data/raw/
 
 # Processed data
 data/processed/
+
+# VS Code
+.vscode/
