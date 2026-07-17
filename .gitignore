@@ -217,12 +217,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-
-# Data
-data/raw/
-
-# Processed data
-data/processed/
-
 # VS Code
 .vscode/
